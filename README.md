@@ -6,10 +6,13 @@ Objetivo
 
 Destrua 20 meteoros sem perder suas 3 vidas.
 
-Controles
+Controles:
 Setas ou W A S D: mover a nave
+
 Espaço: atirar
+
 Enter: iniciar / voltar ao menu
+
 Como rodar
 Instale o Python 3.12 ou superior
 Instale o pygame: python -m pip install pygame
